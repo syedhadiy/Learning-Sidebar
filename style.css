@@ -1,0 +1,36 @@
+body {
+  background-image: url("Home\ Background.jpg");
+  
+}
+/* Style the sidebar - fixed full height */
+.sidebar {
+    height: 100%;
+    width: 160px;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #91a9c6
+    
+  }
+  
+  /* Style sidebar links */
+  .sidebar a {
+    padding: 60px 8px 6px 16px;
+    text-decoration-style:none;
+    font-size: 20px;
+    color: #3b0360;
+    display: inline-flex;
+  }
+  
+  /* Style links on mouse-over */
+  .sidebar a:hover {
+    color: #843b3b;
+  }
+  
+  /* Style the main content */
+  .main {
+    margin-left: 160px; /* Same as the width of the sidenav */
+    padding: 0px 10px;
+  }
+  

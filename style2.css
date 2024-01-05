@@ -1,0 +1,9 @@
+body {
+    background-image: url("Contact.jpg");
+text-decoration-color: blue;
+  }
+  img{
+    border: 10px solid black;
+    padding: 15px;
+    border-style: double;
+  }

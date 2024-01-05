@@ -1,0 +1,10 @@
+body {
+    background-image: url("kids\ wallpaper.jpg");
+text-decoration-color: blue;
+  }
+p {font-weight: 200;font-style: oblique;color: rgba(234, 142, 62, 0.423); font-family: Arial, Helvetica, sans-serif;font-weight: bold;}
+img{
+    border: 10px solid black;
+    padding: 15px;
+    border-style: double;
+  }
